@@ -1,0 +1,5 @@
+zone_name = "Enter your domain name here"
+zone_id = "Enter your Cloudflare zone ID here"
+api_token = "Enter your API Token here"
+account_id = "Enter your Cloudflare account ID here"
+notification_email = "Enter the mail address to receive Cloudflare notification"
