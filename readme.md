@@ -14,27 +14,17 @@
 		Some zone level setting
 	How to Use?
 		Install Terraform
-<<<<<<< HEAD
         https://developer.hashicorp.com/terraform/tutorials/certification-associate-tutorials/install-cli
-		Create API Token
+		
+        Create API Token
         https://developers.cloudflare.com/fundamentals/api/get-started/create-token/
-		Git Pull or download this repo to the folder
+		
+        Git Pull or download this repo to the folder
 		Prepare Terraform environment with `terraform init`
 		Fill in the information and credential in file terraform.tfvars
 		Run `terraform plan` to verify the change or `terraform apply` to update to the environment
-=======
-		Create API Token
-		Git Pull or download the file to the folder
-		Prepare Terraform environment with terraform init
-		Fill in the information and credential in file terraform.tfvars
-		Run terraform plan to verify the change or terraform apply to update to the environment
->>>>>>> af6bd0c078dada8d3e6f2296f9412df32e77d01a
 	Foreseeable Improvement
 		Using list for zone and email notification
 		Implementation for API Shield
 		Add functions not yet available in Terraform (i.e. Page Shield)
-<<<<<<< HEAD
 		More secure way to store Cloudflare credential
-=======
-		More secure way to store Cloudflare credential
->>>>>>> af6bd0c078dada8d3e6f2296f9412df32e77d01a
