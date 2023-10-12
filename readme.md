@@ -28,3 +28,4 @@
 		Implementation for API Shield
 		Add functions not yet available in Terraform (i.e. Page Shield)
 		More secure way to store Cloudflare credential
+test
